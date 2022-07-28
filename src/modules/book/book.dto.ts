@@ -3,4 +3,5 @@ export type BookDTO = {
   title: string;
   description: string;
   bar_code: string;
+  fk_id_author: string;
 };
